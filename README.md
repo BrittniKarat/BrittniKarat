@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brittni Karat</h1>
 <h3 align="center">A passionate frontend developer from San Diego, CA</h3>
 
-- 🔭 I’m currently working on [CharliesRoute](charliesroute.vercel.app/)
+- 🔭 I’m currently working on [CharliesRoute](charliesroute.vercel.app/). This project is dedicated to my mother. This app will make a personailzed route based on the destinations of all her errands.
 
 - 📫 How to reach me **brittnikarat@gmail.com**
 
