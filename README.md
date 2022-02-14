@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brittni Karat</h1> 
-https://user-images.githubusercontent.com/86545296/153952550-c85a74fa-5809-42e3-8172-426e478dd85e.gif
+<img src="https://user-images.githubusercontent.com/86545296/153952550-c85a74fa-5809-42e3-8172-426e478dd85e.gif"/>
+
 
 <h3 align="center">A passionate frontend developer from San Diego, CA</h3>
 
