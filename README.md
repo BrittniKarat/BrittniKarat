@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [CharliesRoute](charliesroute.vercel.app/). This project is dedicated to my mother. This app will make a personailzed route based on the destinations of all her errands.
 
-- 📫 How to reach me **brittnikarat@gmail.com**
+- 📫 How to reach me: **brittnikarat@gmail.com**
 
 - ⚡ Fun fact **The chainsaw was invented to help doctors with childbirth.**
 
