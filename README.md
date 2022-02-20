@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from San Diego, CA</h3>
 
-- 🔭 I’m currently working on [CharliesRoute](charliesroute.vercel.app/). This project is dedicated to my mother. This app will make a personailzed route based on the destinations of all her errands.
+- 🔭 I’m currently working on [loveNotes]. This app has a small template to send a love note and appreciation note that can be sent via email.
 
 - 📫 How to reach me: **brittnikarat@gmail.com**
 
