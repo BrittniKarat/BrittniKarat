@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from San Diego, CA</h3>
 
-- 🔭 I’m currently working on [lovenotes]. This app has a small template to send a love note and appreciation note that can be sent via email.
+- 🔭 I’m currently working on [lovenotes] https://github.com/BrittniKarat/lovenotes. This app has a small template to send a love note and appreciation note that can be sent via email.
 
 - 📫 How to reach me: **brittnikarat@gmail.com**
 
