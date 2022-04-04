@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from San Diego, CA</h3>
 
-- 🔭 I’m currently working on [Underdog_devs] and am currently a technical project manager for this project. My team of 10 developers is heading up the creation of the notes features through the backend and frontend. This feature will allow users to create a record of communication between users at all levels of this organization. While working in this project, my team of developers have built SQL tables, modals, middleware, routers, CRUD endpoints, frontend components, connectivity, assessable design, and testing for this feature under my guidance with close correspondence with the stakeholder.
+- 🔭 I’m currently working on [Underdog_devs] and am currently a technical project manager for this project. My team of 10 developers are heading up the creation of the notes features through the backend and frontend. This feature will allow users to create a record of communication between users at all levels of this organization. While working in this project, my team of developers have built SQL tables, modals, middleware, routers, CRUD endpoints, frontend components, connectivity, assessable design, and testing for this feature under my guidance with close correspondence with the stakeholder.
 
 - 📫 How to reach me: **brittnikarat@gmail.com**
 
