@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from San Diego, CA</h3>
 
-- 🔭 I’m currently working on [Underdog_devs] and am currently a technical project manager for this project. My team of 10 developers are heading up the creation of the notes features through the backend and frontend. This feature will allow users to create a record of communication between users at all levels of this organization. While working in this project, my team of developers have built SQL tables, modals, middleware, routers, CRUD endpoints, frontend components, connectivity, assessable design, and testing for this feature under my guidance with close correspondence with the stakeholder.
+- 🔭 I’m currently woring on a project to make remote work more personable. For those who have wanted to buy donuts for their office but have been unable to since they've been at home, this project is for you! Let's see if we can bring random acts of kindness back to the (virtual office)!
 
 - 📫 How to reach me: **brittnikarat@gmail.com**
 
