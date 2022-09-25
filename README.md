@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/86545296/153952550-c85a74fa-5809-42e3-8172-426e478dd85e.gif" height="30" width="30" target="none"/> Hi, I'm Brittni Karat <img src="https://user-images.githubusercontent.com/86545296/153952550-c85a74fa-5809-42e3-8172-426e478dd85e.gif" height="30" width="30"/> </h1>
 
 <h3 align="center">A passionate Full Stack Developer</h3>
-<h4 align="center"> Located in San Diego </h4>
+<h4 align="center" style="margin-top:5px;"> Located in San Diego </h4>
  
 - 🔭 I’m currently woring on a project to make remote work more personable. For those who have wanted to buy donuts for their office but have been unable to since they've been at home, this project is for you! Let's see if we can bring random acts of kindness back to the (virtual office)!
 
