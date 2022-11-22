@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **brittnikarat@gmail.com**
 
-- ⚡ Fun fact **The chainsaw was invented to help doctors with childbirth.**
+- ⚡ Fun fact **The chainsaw was invented to help doctors with childbirth.** That sounds painful!
 
 <h3 style="fontSize= extra-large" align="left">Connect with me on LinkedIn: <a href="https://linkedin.com/in/brittnikarat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brittnikarat" height="18" width="18" /></a></h3>
  
