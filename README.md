@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 <h4 align="center"> Located in San Diego </h4>
  
-- 🔭 I’m currently woring on a project to make remote work more personable. For those who have wanted to buy donuts for their office but have been unable to since they've been at home, this project is for you! Let's see if we can bring random acts of kindness back to the (virtual office)!
+- 🔭 I’m currently woring on a project to organize my projects! Making small tools to organize my life has been very fulfilling.
 
 - 📫 How to reach me: **brittnikarat@gmail.com**
 
